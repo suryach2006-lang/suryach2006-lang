@@ -130,18 +130,6 @@ Responsive UI
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryach2006-lang&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryach2006-lang&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 Contribution Graph
 
 <p align="center">
@@ -162,15 +150,6 @@ Responsive UI
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suryach2006-lang&theme=tokyonight&column=4"/>
-
-</p>
-
----
 
 # 🌐 Connect with Me
 
